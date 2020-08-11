@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="fa0b637d-78b9-4e48-97bd-73b82d5a1c36" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/DatingApp.api/Controllers/AuthController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/DatingApp.api/Controllers/AuthController.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DatingApp.api/Models/User.cs" beforeDir="false" afterPath="$PROJECT_DIR$/DatingApp.api/Models/User.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DatingApp.api/datingapp.db-shm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DatingApp.api/datingapp.db-wal" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1e43bfOu20GRTdnKfn6XkeNRs31" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/DatingApp-SPA" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+    <property name="ts.external.directory.path" value="D:\DatingApp\DatingApp-SPA\node_modules\typescript\lib" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fa0b637d-78b9-4e48-97bd-73b82d5a1c36" name="Default Changelist" comment="" />
+      <created>1593567111303</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1593567111303</updated>
+      <workItem from="1593567115829" duration="554000" />
+      <workItem from="1593616172325" duration="1587000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="-1625" y="357" key="FileChooserDialogImpl" timestamp="1593624901982">
+      <screen x="-2560" y="0" width="2048" height="1122" />
+    </state>
+    <state x="-1625" y="357" key="FileChooserDialogImpl/0.0.2048.1122/-2560.0.2048.1122@-2560.0.2048.1122" timestamp="1593624901982" />
+    <state x="-2181" y="283" key="SettingsEditor" timestamp="1593620360589">
+      <screen x="-2560" y="0" width="2048" height="1122" />
+    </state>
+    <state x="-2181" y="283" key="SettingsEditor/0.0.2048.1122/-2560.0.2048.1122@-2560.0.2048.1122" timestamp="1593620360589" />
+    <state x="533" y="206" key="SettingsEditor/0.0.2048.1122/-2560.0.2048.1122@0.0.2048.1122" timestamp="1593567642868" />
+  </component>
+</project>
